@@ -7,6 +7,7 @@ sudo pacman -Syu
 sudo pacman -Syy
 
 # installing packages
+cd /tmp/dotfiles/
 sudo pacman -S - < pkglist.txt
 sudo pacman -S tmux zsh
 sudo pacman -S kdecoration qt5-declarative qt5-x11extra cmake extra-cmake-modules
@@ -49,6 +50,7 @@ mv ~/.local ~/.local.bak
 mv ~/.config ~/.config.bak
 mv ~/.bashrc ~/.bashrc.bak
 
+cd /tmp/dotfiles/
 cp .zshrc ~
 tar xvf .vim.tar.gz
 cp -r .vim ~
