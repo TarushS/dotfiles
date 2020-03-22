@@ -37,6 +37,7 @@ then
 	sudo cp vm* /usr/lib/systemd/system
 	sudo systemctl enable vmware-vmblock-fuse
 	sudo systemctl enable vmtoolsd
+	cd /tmp/dotfiles
 else
 
 # backing up and copying the dotfiles
