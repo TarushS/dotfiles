@@ -3,9 +3,11 @@ my dotfiles and configurations for arch linux only
 
 # Installation
 ```
-sudo bash script.sh
+cd /tmp
+git clone https://github.com/TarushS/dotfiles
+bash script.sh
 ```
 # Installation with vmware-tools
 ```
-sudo bash script.sh full
+bash script.sh full
 ```
