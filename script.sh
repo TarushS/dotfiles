@@ -8,8 +8,13 @@ sudo pacman -Syy
 
 # installing packages
 cd /tmp/dotfiles/
+## install from package list
 sudo pacman -S - < pkglist.txt
-sudo pacman -S tmux zsh
+## installing utils
+sudo pacman -S tmux zsh vim git nano ranger
+## installing decor
+sudo pacman -S materia-gtk-theme materia-gtk-theme materia-gtk-theme latte-dock kdecoration qt5-declarative qt5-x11extras papirus-icon-theme 
+## installing dependecies for sierra breeze
 sudo pacman -S kdecoration qt5-declarative qt5-x11extra cmake extra-cmake-modules
 sudo pacman -S cmake
 
