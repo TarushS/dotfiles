@@ -29,8 +29,12 @@ sudo pacman -S cmake
 
 # installing vmware tools
 arg=$1
-if [[ $arg == "vmware" ]]
+if [[ $arg == "full" ]]
 then
+	sudo pacman -S xorg
+	sudo pacman -S plasma-meta kde-applications 
+	sudo systemctl enable sddm
+	sudo systemctl emable NetworkManager
 	mkdir ~/docs/
 	cd ~/docs
 	git clone https://github.com/rasa/vmware-tools-patches.git
