@@ -1,0 +1,17 @@
+[KFileDialog Settings]
+Recent Files[$e]=078.jpeg,file:$HOME/Wallpapers/078.jpeg
+Recent URLs[$e]=file:$HOME/Wallpapers/
+detailViewIconSize=0
+
+[MainWindow]
+Height 1080=700
+Height 884=700
+Height 888=700
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1714=1024
+Width 1718=1024
+Width 1918=1024
+Width 1920=1024
+Window-Maximized 888x1918=true

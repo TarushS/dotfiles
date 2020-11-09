@@ -1,0 +1,37 @@
+[KFileDialog Settings]
+Recent Files[$e]=077.jpg,file:$HOME/Wallpapers/077.jpg
+Recent URLs[$e]=file:$HOME/Wallpapers/
+detailViewIconSize=0
+
+[PlasmaRunnerManager]
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal1714]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 21][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 21][Horizontal1714]
+thickness=36
+
+[PlasmaViews][Panel 21][Horizontal1718]
+thickness=36
+
+[PlasmaViews][Panel 21][Horizontal1918]
+thickness=36
+
+[PlasmaViews][Panel 21][Horizontal1920]
+thickness=36
+
+[ScreenConnectors]
+0=Virtual1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js

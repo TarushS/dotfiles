@@ -1,0 +1,20 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[MainWindow]
+Height 888=480
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1718=756
+Window-Maximized 884x1714=true
+
+[Recent Files]
+File1[$e]=$HOME/Wallpapers/077.jpg
+File2[$e]=$HOME/CTF/5CenYwO.png
+File3[$e]=$HOME/69461882_2166469433651319_5237423368604483584_n.jpg
+Name1[$e]=077.jpg
+Name2[$e]=5CenYwO.png
+Name3[$e]=69461882_2166469433651319_5237423368604483584_n.jpg
+
+[SideBar]
+SideBarSplitterSizes=242,395

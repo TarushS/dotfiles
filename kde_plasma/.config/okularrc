@@ -1,0 +1,14 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 1080=513
+State=AAAA/wAAAAD9AAAAAAAABrIAAALyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=640
+Window-Maximized 1080x1920=true
+Window-Maximized 884x1714=true
+
+[Recent Files]
+File1[$e]=$HOME/ebooks/security/security_engineering_a_guide_to_building_dependable_distributed_systems.pdf
+Name1[$e]=security_engineering_a_guide_to_building_dependable_distributed_systems.pdf

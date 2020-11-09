@@ -1,0 +1,59 @@
+[file:///home/tarush/.bashrc]
+Bookmarks=
+Checksum=8d51fbbe38ce11ea6e8db745f95d392b9f225c66
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,3,26,19,40,5
+URL=file:///home/tarush/.bashrc
+
+[file:///home/tarush/.tmux.conf]
+Bookmarks=
+Checksum=f6b9b05273b768fa51a42d688b61e0503c67ded5
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,3,26,19,39,55
+URL=file:///home/tarush/.tmux.conf
+
+[file:///home/tarush/.zshrc]
+Bookmarks=
+Checksum=74ccf464f63e2d958fb030d9495f47e845081681
+Encoding=UTF-8
+Highlighting=Zsh
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Zsh
+Mode Set By User=false
+Time=2020,3,26,19,40,19
+URL=file:///home/tarush/.zshrc
+
+[file:///home/tarush/server-24-04-20/banned-ips.json]
+Bookmarks=
+Checksum=0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc
+Encoding=UTF-8
+Highlighting=JSON
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=JSON
+Mode Set By User=false
+Time=2020,4,24,22,28,28
+URL=file:///home/tarush/server-24-04-20/banned-ips.json
+
+[file:///home/tarush/server-24-04-20/server.properties]
+Bookmarks=
+Checksum=75e75c0317db47bbc214f88731d909dd1dd8d233
+Encoding=UTF-8
+Highlighting=Java Properties
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Java Properties
+Mode Set By User=false
+Time=2020,4,24,22,28,52
+URL=file:///home/tarush/server-24-04-20/server.properties

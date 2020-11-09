@@ -1,0 +1,7 @@
+[General]
+Index=minecraft
+
+[minecraft]
+Port=21
+Type=FTP
+URL=ftp://40270@gra-adv4-103.server.pro:21/

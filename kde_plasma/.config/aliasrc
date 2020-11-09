@@ -1,0 +1,41 @@
+#!/bin/sh
+
+# Using nvim for vim
+command -v nvim >/dev/null && alias vim="nvim" vimdiff="nvim -d"
+
+# Verbosity and settings that you pretty much just always are going to want.
+alias \
+	cp="cp -iv" \
+	mv="mv -iv" \
+	rm="rm -v" \
+	mkd="mkdir -pv" \
+	cpr="cp -r" \
+	rmr="rm -r" \
+	la="ls -hN --color=auto --group-directories-first -lah" \
+	sl="ls -hN --color=auto --group-directories-first"
+
+# Colorize commands when possible.
+alias \
+	ls="ls -hN --color=auto --group-directories-first" \
+	grep="grep --color=auto" \
+	diff="diff --color=auto" \
+	ccat="highlight --out-format=ansi"
+
+# These common commands are just too long! Abbreviate them. Yes the commands are too long
+alias \
+	ka="killall" \
+	g="git" \
+	sdn="sudo shutdown -h now" \
+	f="$FILE" \
+	e="$EDITOR" \
+	v="$EDITOR" \
+	p="sudo pacman" \
+	xi="sudo xbps-install" \
+	xr="sudo xbps-remove -R" \
+	xq="xbps-query" \
+	c="cat"
+
+
+# Some other stuff
+alias \
+	magit="nvim -c MagitOnly" \
